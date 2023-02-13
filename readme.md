@@ -2,6 +2,8 @@
 
 请允许我向您介绍，跨时代的自然语言通用模型：ChatRick。
 
+本模型基于Rick Astley于27 July 1987发表的论文:Ne jamais vous abandonner.
+
 # 特点：
 
 ### 轻量化：
