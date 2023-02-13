@@ -41,9 +41,6 @@ ChatRick采用了GPT-4.5架构，拥有高效的语言理解和文本生成能�
 # 模型信息:
 
 ```
-$ define $CameraVoyeur 
---cameraVoyeur version 2.33.0.windows.2
-
 -- We're no strangers to love
 You know the rules and so do I A full commitment's what I'm thinking of You wouldn't get this from any other guy
 I just wanna tell you how I'm feeling
