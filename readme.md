@@ -36,7 +36,13 @@ ChatRick采用了GPT-4.5架构，拥有高效的语言理解和文本生成能�
 
 # 运行
 
-使用Cpython运行main.py。
+### Windows
+
+在release界面下载result.exe，双击运行。
+
+### Linux / MacOS
+
+使用python命令运行result.py。
 
 # 模型信息:
 
