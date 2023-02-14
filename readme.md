@@ -2,6 +2,10 @@
 
 请允许我向您介绍，跨时代的自然语言通用模型：ChatRick。
 
+本模型基于Rick Astley于27 July 1987发表的论文:Ne jamais vous abandonner。
+
+该帮助文档由ChatRick生成。
+
 # 特点：
 
 ### 轻量化：
@@ -37,9 +41,6 @@ ChatRick采用了GPT-4.5架构，拥有高效的语言理解和文本生成能�
 # 模型信息:
 
 ```
-$ define $CameraVoyeur 
---cameraVoyeur version 2.33.0.windows.2
-
 -- We're no strangers to love
 You know the rules and so do I A full commitment's what I'm thinking of You wouldn't get this from any other guy
 I just wanna tell you how I'm feeling
